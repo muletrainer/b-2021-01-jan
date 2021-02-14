@@ -1,4 +1,4 @@
 This is my first file.
 This is from develop branch
 this is from devlop again
-this is from master branch - to raise the merge conflict
+this is from dev branch - for merge conflict.
